@@ -11,7 +11,7 @@ import Routes from "./Routes";
 import Footer from "../components/template/Footer";
 
 export default props =>
-    <BrowserRouter>
+    <BrowserRouter basename="{process.env.PUBLIC_URL}">
         <div className="app">
             <Logo />
             <Nav />
