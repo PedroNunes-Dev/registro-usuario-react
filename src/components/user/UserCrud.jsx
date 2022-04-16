@@ -9,7 +9,7 @@ const headerProps = {
     "subtitle": 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir!'
 }
 
-const baseUrl = 'http://localhost:3001/users'
+const baseUrl = 'https://github.com/PedroNunes-Dev/registro-usuario-backend/blob/main/db.json'
 const initialState = {
 
     user: { name: '', email: '' },
@@ -166,7 +166,7 @@ export default class UserCrud extends Component {
                     <td>{user.name}</td>
                     <td>{user.email}</td>
                     <td>
-                        <button className="btn btn-warning my-2" onClick={() => this.load(user)}>
+                        <button className="btn btn-warning my-2 mx-2" onClick={() => this.load(user)}>
                             <i className="fa fa-pencil"></i>
                         </button>
                         <button className="btn btn-danger" onClick={() => this.remove(user)}>
