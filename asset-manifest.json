@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/registro-usuario-react/static/css/main.dd8880c9.css",
-    "main.js": "/registro-usuario-react/static/js/main.3b7e08c7.js",
+    "main.js": "/registro-usuario-react/static/js/main.ae15a9ac.js",
     "static/js/787.cda612ba.chunk.js": "/registro-usuario-react/static/js/787.cda612ba.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/registro-usuario-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/logo.png": "/registro-usuario-react/static/media/logo.98bb973b96d8e29c7190.png",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/registro-usuario-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/registro-usuario-react/index.html",
     "main.dd8880c9.css.map": "/registro-usuario-react/static/css/main.dd8880c9.css.map",
-    "main.3b7e08c7.js.map": "/registro-usuario-react/static/js/main.3b7e08c7.js.map",
+    "main.ae15a9ac.js.map": "/registro-usuario-react/static/js/main.ae15a9ac.js.map",
     "787.cda612ba.chunk.js.map": "/registro-usuario-react/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd8880c9.css",
-    "static/js/main.3b7e08c7.js"
+    "static/js/main.ae15a9ac.js"
   ]
 }
