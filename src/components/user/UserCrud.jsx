@@ -9,7 +9,7 @@ const headerProps = {
     "subtitle": 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir!'
 }
 
-const baseUrl = 'https://github.com/PedroNunes-Dev/registro-usuario-backend/blob/main/db.json'
+const baseUrl = 'http://localhost:3001/users'
 const initialState = {
 
     user: { name: '', email: '' },
